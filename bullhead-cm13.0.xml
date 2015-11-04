@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+   <project path="device/lge/bullhead" name="drsn0w/android_device_lge_bullhead" remote="github" revision="cm-13.0" />
+   <project path="kernel/lge/bullhead" name="drsn0w/android_kernel_lge_bullhead" remote="github" revision="cm-13.0" />
+
+   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
+</manifest>

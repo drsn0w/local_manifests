@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- CyanogenMod 12.1 Manifest for himaul -->
+
+<manifest>
+   <project path="device/htc/hima-common" name="drsn0w/android_device_htc_hima-common" remote="github" revision="cm-12.1" />
+   <project path="device/htc/himaul" name="drsn0w/android_device_htc_himaul" remote="github" revision="cm-12.1" />
+   <project path="kernel/htc/msm8994" name="drsn0w/android_kernel_htc_msm8994" remote="github" revision="cm-12.1" />
+
+   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
+   <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" remote="github" revision="cm-12.1" />
+   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
+
+   <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="github" revision="cm-12.1" />
+</manifest>
